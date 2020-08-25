@@ -1,0 +1,7 @@
+{
+  "name": "onda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
